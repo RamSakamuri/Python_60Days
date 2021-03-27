@@ -4,5 +4,5 @@ class Node:
     self.info = info
     self.link = link
 
-first = Node(20)
-print(first.info)
+
+
